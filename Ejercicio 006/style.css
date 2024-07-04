@@ -1,0 +1,25 @@
+
+
+#principal
+{
+    width: 200px;
+    text-align: center;
+    border: red 5px solid;
+    border-radius:10px;
+    top:0;
+    right: 200px;
+    background-color: silver;
+    
+}
+
+.contenido
+{
+    padding: 3px;
+    margin: 16px;
+   
+}
+.input
+{
+    padding: 15px;
+}
+
